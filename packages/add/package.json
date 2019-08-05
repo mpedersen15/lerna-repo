@@ -1,6 +1,6 @@
 {
-  "name": "add",
-  "version": "0.0.1",
+  "name": "mjp-add",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "c97e5c26eceb44937fb85d1ab0ba388b5980b134"
 }
